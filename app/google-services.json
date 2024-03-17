@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "934761303610",
+    "project_id": "subhadipofc-firebase1",
+    "storage_bucket": "subhadipofc-firebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934761303610:android:3ffd9bd8b9f5495c612f03",
+        "android_client_info": {
+          "package_name": "com.example.sampleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe0pL2gt8o3scyxrcdgr2SMkjEABnXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934761303610:android:d44edb3f77abf1f4612f03",
+        "android_client_info": {
+          "package_name": "com.example.sampleapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe0pL2gt8o3scyxrcdgr2SMkjEABnXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934761303610:android:90f0e9726fa2b3ac612f03",
+        "android_client_info": {
+          "package_name": "io.verloop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe0pL2gt8o3scyxrcdgr2SMkjEABnXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934761303610:android:98e9961f90389eb6612f03",
+        "android_client_info": {
+          "package_name": "io.verloop.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe0pL2gt8o3scyxrcdgr2SMkjEABnXWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
